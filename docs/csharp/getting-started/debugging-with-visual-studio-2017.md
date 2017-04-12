@@ -126,7 +126,7 @@ Visual Studio also allows us to step line by line through a program and monitor 
 
 1. Choose **Debug**, **Step Into**, or press the F11 key. Visual Studio calls the [Console.WriteLine](xref:System.Console.WriteLine(System.String,System.Object,System.Object)) method. The values of the `date` and `name` variables appear in the **Autos** window, and the console window displays the formatted string.
 
-1. Choose **Debug**, **Step Out**, or press Shift and the F11 key. This stops step-by-step execution. The console window displays a message and waits for us to press a key.
+1. Choose **Debug**, **Step Out**, or press Shift and the F11 key. This stops step-by-step execution. The console window displays a message and waits for a key press.
 
 1. Press any key to close the console window and exit Debug mode.
 
